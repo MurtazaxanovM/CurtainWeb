@@ -70,5 +70,9 @@ namespace CurtainWeb.Controllers
         {
             return View();
         }
+        public IActionResult Gallery()
+        {
+            return View();
+        }
     }
 }
